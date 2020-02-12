@@ -1,7 +1,6 @@
-def say_hello(name)
+def say_hello(name="Ruby programmer")
   puts "Hello #{name}!"
 end
 
-def say_hello_with_defaults(person="Ruby programmer!")
-  puts "Hello #{person}!"
-end
+
+
